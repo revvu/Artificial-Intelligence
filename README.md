@@ -1,1 +1,1 @@
-Collection of projects to solve classic artifical intelligence problems.   
+Collection of projects to solve classic artifical intelligence problems. Version control was implemented post-project completion, so revision history was maintained manually during project progression.
